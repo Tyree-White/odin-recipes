@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I will be using HTML to create a website with the recipes to create food. The goal of this project is to demonstrate my mastery of HTML and eventually incorporate CSS into the project later on down the line. Additionally making a habit of committing early and often as well as writing descriptive and concise commit messages in imperative mood is a skill I would like to demonstrate in this project.
