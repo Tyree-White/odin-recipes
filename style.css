@@ -3,3 +3,42 @@
     background-color: #e1ad01;
     color: white;
 }
+
+#gumbo {
+    text-align: left;
+    width: 33.33333%;
+    float: left;
+}
+
+#remy {
+    text-align: center;
+    width: 33.33333%;
+    float: left;
+}
+
+#spag {
+    text-align: right;
+    width: 33.33333%;
+    float: right;
+}
+
+#gumbo-img {
+    width: 33.33333%;
+    place-items: left;
+    height: auto;
+    width: 400px;
+}
+
+#remy-img {
+    width: 33.33333%;
+    place-items: center;
+    height: 400px;
+    width: 450px;
+}
+
+#spag-img {
+    width: 33.33333%;
+    place-items: right;
+    height: 400px;
+    width: 400px;
+}
